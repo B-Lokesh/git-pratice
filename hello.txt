@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Lokesh Welcome to gittttt
+=======
+Hello Lokesh Welcome to git
+>>>>>>> 385758b7c16e7137f12b95b040183d5fbc9ed1b5
